@@ -269,3 +269,20 @@ body {
 .additional-info__languages-item {
   color: var(--secondary-text-color);
 }
+.additional-info__about,
+.additional-info__hobbies {
+  margin-bottom: 20px;
+}
+
+.additional-info__about-header,
+.additional-info__hobbies-header {
+  color: var(--secondary-text-color);
+  text-align: left;
+  margin-bottom: 20px;
+}
+
+.additional-info__about-text,
+.additional-info__hobbies-text {
+  color: var(--secondary-text-color);
+  text-align: justify;
+}
